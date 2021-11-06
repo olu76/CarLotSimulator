@@ -1,0 +1,13 @@
+C:\Users\midas\Desktop\TestRepo\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp2.1\CarLotSimulator.csproj.AssemblyReference.cache
+C:\Users\midas\Desktop\TestRepo\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp2.1\CarLotSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\midas\Desktop\TestRepo\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp2.1\CarLotSimulator.AssemblyInfoInputs.cache
+C:\Users\midas\Desktop\TestRepo\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp2.1\CarLotSimulator.AssemblyInfo.cs
+C:\Users\midas\Desktop\TestRepo\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp2.1\CarLotSimulator.csproj.CoreCompileInputs.cache
+C:\Users\midas\Desktop\TestRepo\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp2.1\CarLotSimulator.deps.json
+C:\Users\midas\Desktop\TestRepo\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp2.1\CarLotSimulator.runtimeconfig.json
+C:\Users\midas\Desktop\TestRepo\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp2.1\CarLotSimulator.runtimeconfig.dev.json
+C:\Users\midas\Desktop\TestRepo\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp2.1\CarLotSimulator.dll
+C:\Users\midas\Desktop\TestRepo\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp2.1\CarLotSimulator.pdb
+C:\Users\midas\Desktop\TestRepo\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp2.1\CarLotSimulator.dll
+C:\Users\midas\Desktop\TestRepo\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp2.1\CarLotSimulator.pdb
+C:\Users\midas\Desktop\TestRepo\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp2.1\CarLotSimulator.genruntimeconfig.cache
